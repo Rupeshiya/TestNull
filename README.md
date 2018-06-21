@@ -5,7 +5,7 @@ A node.js package to check whether a string is null or empty. It's only for npm 
 ## Setup:-
 First install package using npm:
 ```
-npm install npmTestNULL --save
+npm install test_null --save
 ```
 Then require the package in your project and use it like this:
 
